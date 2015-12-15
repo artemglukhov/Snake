@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<conio3.h>
+#include"conio3.h"
 int M[16][16]={0}, dir=0, pX=5, pY=5, l=3;
 void random(){
 	int iX, iY;
